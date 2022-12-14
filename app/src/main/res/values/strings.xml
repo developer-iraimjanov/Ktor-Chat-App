@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ktor Chat</string>
+    <string name="login">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="groupChat">Group chat</string>
+    <string name="message">Message</string>
+    <string name="text_copy_description">The text has been moved to the clipboard</string>
+</resources>
